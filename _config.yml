@@ -49,7 +49,7 @@ youtube_username: sabakia
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/images.png)
+about_profile_image: Directory of profile image (eg. images/0.jpg)
 about_content: | # this will include new lines to allow paragraphs
   hey. i'm a CE student at iust and this is a website for my labexam.
 
@@ -73,6 +73,10 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           get familiar with other students and being in a great computer class.
+
+        ![libpic](image/lab.jpg)
+![libpic](image/lab.jpg)
+
   # - title: Experience
   #   layout: list
   #   content:
