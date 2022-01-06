@@ -72,10 +72,12 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          get familiar with other students and being in a great computer class.
+          geting familiar with other students and being in a great computer class.
 
-        ![libpic](image/lab.jpg)
-![libpic](image/lab.jpg)
+        ![libpic](images/lab.jpg)
+
+
+![libpic](images/lab.jpg)
 
   # - title: Experience
   #   layout: list
